@@ -1,0 +1,4 @@
+ChuangAo\Wechat\controller\TotalController.class
+ChuangAo\Wechat\Application.class
+ChuangAo\Wechat\ServletInitializer.class
+ChuangAo\Wechat\service\Wechat4jService.class
